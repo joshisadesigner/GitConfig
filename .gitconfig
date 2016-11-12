@@ -4,8 +4,8 @@
 	excludesfile = /Users/Home/.gitignore_global
 	editor = atom -w
 [user]
-	name = Joshisadesigner
-	email = joshisadesigner@gmail.com
+	name = my_nickname
+	email = my_nickname@mail.com
 [alias]
 	hist = log --all --graph --decorate --oneline --all
 [merge]
